@@ -1,4 +1,4 @@
-module socket.io.client
+module github.com/abelwei/socket.io.client
 
 go 1.13
 
