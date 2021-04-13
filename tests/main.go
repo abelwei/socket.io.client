@@ -3,9 +3,9 @@ package main
 import (
 	"bufio"
 	"fmt"
-	ioclient "go-socket.io-client"
 	"log"
 	"os"
+	ioclient "socket.io.client"
 )
 
 

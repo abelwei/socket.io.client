@@ -1,4 +1,4 @@
-module go-socket.io-client
+module socket.io.client
 
 go 1.13
 
